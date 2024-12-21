@@ -9,7 +9,7 @@ Hope to succeed in this field effortlessly.
 
 
 ## 🌐 Socials:
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ruslan Kazmiryk ) 
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)(https://facebook.com/Ruslan Kazmiryk ) 
 
 # 💻 Tech Stack:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
